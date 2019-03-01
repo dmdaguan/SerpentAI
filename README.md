@@ -12,6 +12,9 @@
 
 ## Warning: End of life (November 2018)
 
+SerpentAI 是一个 Game Agent 框架（ps：在人机对战中，为了区分玩家，通常称机器玩家为 agent ），简单而又强大。它能把任何一个游戏变成用 Python 编写的沙盒环境，供开发者在其中创造游戏 Game Agent 做实验，使用的都是开发者非常熟悉的Python代码。
+Serpent.AI 中包含大量支持模块，在以游戏为开发环境时经常遇到的场景提供解决方案，同时也提供加速开发的 CLI 工具。支持 Linux、Windows 和 MacOS 。
+
 #### The development work on the framework has stopped. The necessary time to keep up with the crazy nature of reinforcement learning, the bug fixing and community support cannot be justified anymore (sadly). The repository will remain up as it should be, for people interested in the field, a very exhaustive resource code-wise to interact with games for machine learning. There is a ton to learn by snooping through the code. Have Fun!
 
 Serpent.AI is a simple yet powerful, novel framework to assist developers in the creation of game agents. Turn ANY video game you own  into a sandbox environment ripe for experimentation, all with familiar Python code. The framework's _raison d'être_ is first and foremost to provide a valuable tool for Machine Learning & AI research. It also turns out to be ridiculously fun to use as a hobbyist (and dangerously addictive; a fair warning)!
